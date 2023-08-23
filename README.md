@@ -3,7 +3,7 @@
 ## Sobre mim
 - 👋 Olá, eu sou o Dian Jr, tenho 18 anos e estou estudando Sistemas de Informação na UNIFEBE.
 - 🏞️ Natural de Brusque, SC, e atualmente morando em Nova Trento, SC.
-- 🌱 Estou explorando o mundo da programação e aprendendo HTML,alem de Java e JavaScript.
+- 🌱 Estou explorando o mundo da programação e aprendendo HTML,alem de Java,JavaScript e CSS.
 - 🌐 Também estou empenhado em aprimorar minhas habilidades em idiomas, incluindo cursos de inglês.
 - 💻 Tenho interesse em informática e tecnologia de maneira geral.
 
