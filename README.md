@@ -9,7 +9,7 @@
 
 ## Minhas Atividades
 - 📚 Aprendendo os conceitos fundamentais de programação em Java.
-- 🌐 Explorando o desenvolvimento web com HTML e JavaScript.
+- 🌐 Explorando o desenvolvimento web com HTML,JavaScript e CSS.
 - 📖 Aprimorando minhas habilidades em inglês para aprimorar a comunicação técnica.
 - 💡 Explorando diversas áreas da informática para expandir meu conhecimento.
 
