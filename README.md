@@ -6,7 +6,7 @@
 
 ## Minhas Atividades
 - 🌐 Experiência com HTML,JavaScript e CSS e Java.
-
+- 📚 Língua Estrangeira Inglês
 ## Contato
 - 📧 Email: diancarlos29@gmail.com
 
