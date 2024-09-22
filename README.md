@@ -1,11 +1,11 @@
 # Bem-vindo ao meu perfil
 
 ## Sobre mim
-- 👋 Olá, eu sou o Dian Jr, tenho 19 anos e estou estudando Sistemas de Informação na UNIFEBE.
+- 👋 Olá, eu sou o Dian Jr, tenho 20 anos e estou estudando Sistemas de Informação na UNIFEBE.
 - 🏞️ Natural de Brusque, SC, e atualmente morando em Nova Trento, SC.
 
 ## Minhas Atividades
-- 🌐 Experiência com HTML,JavaScript e CSS e Java.
+- 🌐 Experiência com HTML,JavaScript,CSS,Java,Kotlin e Genexus18.
 - 📚 Língua Estrangeira Inglês
 ## Contato
 - 📧 Email: diancarlos29@gmail.com
